@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>LOGIN PAGE</title>
 <style type="text/css">
 table
 {
@@ -32,11 +32,11 @@ background-color: #ddd;
 </tr>
 <tr>
 <td>Username:</td>
-<td><input type="text" name="uname"></td>
+<td><input type="text" name="uname" placeholder="Username"></td>
 </tr>
 <tr>
 <td>Password:</td>
-<td><input type="password" name="pwd"></td>
+<td><input type="password" name="pwd" placeholder="password"></td>
 </tr>
 <tr>
 <td align="right" colspan="2"><input type="submit" name="login" value="login"></td>
